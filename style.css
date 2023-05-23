@@ -1,0 +1,22 @@
+/*
+Comentarios en CSS
+*/
+h1 {
+    color: red;
+  }
+p,li {
+    color: green;
+}
+h2 {
+    color: orange;
+}
+.skills {
+    background-color: coral;
+}
+.image-profile {
+    border-color: black;
+    
+}
+.name {
+    border-color: black;
+}
